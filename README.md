@@ -1,2 +1,2 @@
-# useful-circtuits
-A collection of useful circtuits and explanations on how they work.
+# Useful circuits
+This repo contains a collection of useful circuits and explanations on how they work.
