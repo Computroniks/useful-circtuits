@@ -6,4 +6,4 @@ different.
 
 # Circuits
 ## Over voltage
-* [Crowbar](/crowbar/)
+* [Crowbar](crowbar/)
